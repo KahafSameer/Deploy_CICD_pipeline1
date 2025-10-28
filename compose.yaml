@@ -1,0 +1,6 @@
+services:
+  img:
+    build: .
+    container_name: my_container
+    ports:
+      - 5000:5000
