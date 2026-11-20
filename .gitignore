@@ -1,1 +1,4 @@
 package.jason
+
+# Build artifacts / dependencies
+node_modules/
